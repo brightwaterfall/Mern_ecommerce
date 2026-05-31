@@ -57,11 +57,10 @@
 
    ##### Instructions:
 
-   1. for mongodb atlas database creation follow this tutorial->https://www.youtube.com/watch?v=KKyag6t98g8
-   2. you can use any random string as JWTSECRET
-   3. if your backend server is on a different port or domain, update the API URL in config.js accordingly
-   4. #### note: add .env on .gitignore
-   5. for server deployment use secrets directly
+   1. you can use any random string as JWTSECRET
+   2. if your backend server is on a different port or domain, update the API URL in config.js accordingly
+   3. #### note: add .env on .gitignore
+   4. for server deployment use secrets directly
 
 5. <b>deploy this project</b> on your local server by using this command
 
@@ -91,7 +90,3 @@
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
     10. FRONTEND URL: http://localhost:5173/
     11. Project demo will be added soon...
-
-
-1. <b>Deployed on: (No longer available due to heroku free dyno plan has deprecated)</br> https://ecommerce-ak.herokuapp.com/
-2. raise a star to support me
